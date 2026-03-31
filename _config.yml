@@ -4,7 +4,7 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: Tea
 subtitle: ""
 description: ""
 keywords: 
@@ -57,10 +57,10 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Sunshine
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: lmy
 location: Wuhan, China
 email: chumpma@gmail.com
 
